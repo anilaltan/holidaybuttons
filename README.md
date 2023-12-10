@@ -6,6 +6,8 @@
 
 ## Install
 
+[NPMJS](https://www.npmjs.com/package/holidaybuttons)
+
 ```bash
 npm install --save holidaybuttons
 ```
